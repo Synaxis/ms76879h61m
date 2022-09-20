@@ -2,7 +2,7 @@
 2- Delete all data + format USB to fat32(nothing else)<br><br>
 3- COPY PASTE MS-7687 VER 4_2  4m.BIN TO THE PENDRIVE<br><br>
 4- remove power cable<br><br>
-4.1 - Disconnect HD/ cd/dvd/ sdd etc , disconnect ethernet cable, wifi card etc<br><br>
+4.1 - Disconnect HD/ cd/dvd/ all peripherics, except pendrive (ethernet cable, wifi card etc)<br><br>
 5- Move the TWO Jumpers CMOS_CLR from pin 1-2 to pin 1-3<br><br>(cmos battery was there and did not influence the result for me)<br><br>
 6- insert pendrive on usb 3.0 port(you can try other ports but try 3.0 first <br><br>
 6.1 - Must be connected only pendrive, nothing else<br><br>
