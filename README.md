@@ -1,3 +1,8 @@
+This is a guide to reflash bios via pendrive (bricked or not bricked) 
+lenovo h520g and similar (must find the correct bios in this case)
+
+Esse é um guia para recuperar a bios corrompida pelo pendrive, sem solda somente com pendrive
+
 1- Download bios MS-7687 VER 4_2  4m.BIN<br><br> https://cdn.discordapp.com/attachments/960567358395670608/1021749555169075200/MS-7687_VER_4_2_4m.BIN 
 2- Delete all data + format USB to fat32(nothing else)<br><br>
 3- COPY PASTE MS-7687 VER 4_2  4m.BIN TO THE PENDRIVE<br><br>
