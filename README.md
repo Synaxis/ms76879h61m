@@ -9,7 +9,8 @@
 7- turn on AND WAIT AROUND 10 to 15 minutes<br><br>
 7.1- DO NOT TOUCH ANYTHING<br><br>
 8 - CHECK PENDRIVE LIGHTS<br><br>
-9 - after complete it will turn OFF AUTOMATICALLY <br><br>
-10 - DISCONNECT  power cable <br><br>
+9 - When COMPLETE, The machine will Shutdown AUTOMATICALLY <br><br>
+10 - DISCONNECT  power cable + Pendrive <br><br>
 11- change CMOS_CLR pin to 1-2 again <br><br>
-12- PC WILL BOOT AGAIN ALIVE
+12- Attatch everything + cables + vga etc
+13- PC WILL BOOT AGAIN ALIVE
