@@ -12,5 +12,5 @@
 9 - When COMPLETE, The machine will Shutdown AUTOMATICALLY <br><br>
 10 - DISCONNECT  power cable + Pendrive <br><br>
 11- change CMOS_CLR pin to 1-2 again <br><br>
-12- Attatch everything + cables + vga etc
+12- Attatch everything + cables + vga etc<br><br>
 13- PC WILL BOOT AGAIN ALIVE
